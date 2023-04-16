@@ -1,0 +1,39 @@
+.ipynb_checkpoints
+Logs
+MP_Datasets
+MS-ASL.zip
+MS-ASL/
+MS_ASL_videos/
+NEW(66-words)MODEL5.h5
+NEW(66-words)MODEL7.h5
+Project-Apollo.zip
+Untitled.ipynb
+bla.swf
+images
+keypoints backup/
+keypoints_corupt/
+keypoints_old/
+keypoints_wrong/
+sign_recognition
+sign_recognition.ipynb
+sign_recognition_backup.ipynb
+temp
+test
+videos_left_hand/
+videos_old/
+weights_v1(14-words).h5
+weights_v1(6-words).h5
+weights_v2(14-words).h5
+weights_v3(14-words 98%).h5
+weights_v4(14-words 94%, dence).h5
+weights_v5(14-words 95%, tanh).h5
+weights_v6(66-words 90%).h5
+weights_v6(66-words 91%).h5
+weights_v7(66-words 93%)MODEL3.h5
+weights_v7(66-words 93%)MODEL4.h5
+weights_v7(66-words 94%)MODEL5.h5
+weights_v7(66-words 96%)MODEL4.h5
+weights_v7(66-words 97%(withtanh)).h5
+weights_v7(66-words)MODEL6.h5
+TEST_DATA
+videos
